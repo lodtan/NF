@@ -1,0 +1,1 @@
+<p> Plat supprimé avec succès </p>

@@ -1,0 +1,1 @@
+<p>  Boisson retirée de la carte avec succès </p>
